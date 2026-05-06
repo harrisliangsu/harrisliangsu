@@ -16,7 +16,7 @@
 <h3 align="left">AI Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,langchain,openai,vscode,docker&perline=9" alt="AI Stack" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,vscode,docker&perline=9" alt="AI Stack" />
   </a>
 </p>
 
@@ -27,6 +27,3 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisliangsu&show_icons=true&locale=en&layout=compact" alt="harrisliangsu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrisliangsu&show_icons=true&locale=en" alt="harrisliangsu" /></p>
